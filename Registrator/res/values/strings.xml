@@ -4,15 +4,16 @@
     <string name="app_name">Registrator</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
-	<string name="first_name">Ime</string>
-	<string name="last_name">Prezime</string>
-	<string name="sex">Spol</string>
-	<string name="male">Muško</string>
-	<string name="female">Žensko</string>
-	<string name="phone_number">Tel. broj</string>
-	<string name="add">Dodaj</string>
-	<string name="view">Pregled</string>
-    
-    
-    
+    <string name="first_name">Ime</string>
+    <string name="last_name">Prezime</string>
+    <string name="sex">Spol</string>
+    <string name="male">Muško</string>
+    <string name="female">Žensko</string>
+    <string name="phone_number">Tel. broj</string>
+    <string name="add">Dodaj</string>
+    <string name="view">Pregled</string>
+    <string name="list">Lista</string>
+    <string name="background_title">Change background colour</string>
+    <string name="toast_title">Show toast message</string>
+
 </resources>
